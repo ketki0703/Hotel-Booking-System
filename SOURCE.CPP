@@ -1,12 +1,4 @@
-/*
-	
-	Title			: Hotel Management System
-	Language		: C++
-	Author			: Daljeet Singh Chhabra
-	Date Created	: 16-02-2016
-	Last Modified	: 01-10-2018
 
-*/
 
 #include<fstream.h>
 #include<iostream.h>
@@ -23,26 +15,26 @@ void intro() {
 	cout<<"\n\n\t            ";
 	cout<<"     C++ Project On Hotel Management System";
 	cout<<"\n\n\t\t\t\t     MADE BY";
-	cout<<"\n같같같같같같같같같같같같같같같같같같같같같";
-	cout<<"같같같같같같같같같같같같같같같같같같같";
+	cout<<"\n째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째";
+	cout<<"째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째";
 	cout<<"||\t\t\t\t\t\t\t\t\t      ||";
 	cout<<"||\t\t\t\t\t\t\t\t\t      ||";
-	cout<<"||\t\t\t\tDaljeet Singh Chhabra\t\t\t      ||";
+	cout<<"||\t\t\t\tKetki Bhale\t\t\t      ||";
 	cout<<"||\t\t\t\t\t\t\t\t\t      ||";
 	cout<<"||\t\t\t\t\t  \t\t\t\t      ||";
-	cout<<"같같같같같같같같같같같같같같같같같같같같같";
-	cout<<"같같같같같같같같같같같같같같같같같같같";
+	cout<<"째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째";
+	cout<<"째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째";
 }
 
 void head() {
 	clrscr();
-	cout<<"같같같같같같같같같같같같같같같같같같같같같";
-	cout<<"같같같같같같같같같같같같같같같같같같같";
+	cout<<"째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째";
+	cout<<"째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째";
 	cout<<"?t\t\t\t\t\t\t\t\t       ?;
 	cout<<"?t\t\t\t   XYZ Group of Hotels\t\t\t       ?;
 	cout<<"?t\t\t\t\t\t\t\t\t       ?;
-	cout<<"같같같같같같같같같같같같같같같같같같같같같";
-	cout<<"같같같같같같같같같같같같같같같같같같같";
+	cout<<"째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째";
+	cout<<"째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째째";
 }
 
 void time() {
